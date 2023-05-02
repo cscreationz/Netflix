@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@600&family=Roboto+Condensed&display=swap");
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    position: relative;
+    top: 100px;
+    left: 50px;
+
+  }
+.nav {
+    display: flex;
+    position: relative;
+    left: 100px;
+    color: white;
+    list-style: none; 
+    gap: 2em;
+}
+
+ .yo {
+    width: 150px;
+    height: auto;
+}
+.sup {
+    width: 150px;
+    height: auto;
+}
+
+.bruh {
+    width: 150px;
+    height: auto;
+}
+.jo {
+    width: 150px;
+    height: auto;
+}
+.dude {
+    width: 150px;
+    height: auto;
+}
